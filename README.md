@@ -1,2 +1,2 @@
 # eirini
-Website For All computershop
+Computershop's social networking site :)
